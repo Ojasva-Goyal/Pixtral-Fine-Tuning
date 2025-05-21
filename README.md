@@ -136,9 +136,24 @@ python examples/inference.py \
 
 ---
 
-## 📄 License
+# Contributing
+PRs & issues welcome! 🎉 Please follow these steps to contribute:
 
-Apache‑2.0 © 2025 Ojasva Goyal
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes.
+4. Commit your changes (`git commit -m 'Add some feature'`).
+5. Push to the branch (`git push origin feature-branch`).
+6. Open a pull request.
 
-PRs & issues welcome! 🎉
+
+---
+
+
+# Contact
+Created by `Ojasva Goyal` - feel free to contact me at ojasvagoyal9@gmail.com for any questions or feedback.
+
+
+
+
 
