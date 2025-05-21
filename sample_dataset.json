@@ -1,0 +1,56 @@
+[
+  {
+    "id": 0,
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "What is the sentiment for this ad?\u5305"
+          },
+          {
+            "type": "image",
+            "image_path": "/sample_path/sample_image_1.png"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "creative, eager, emotional, inspired, eager"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "What is the sentiment for this ad?"
+          },
+          {
+            "type": "image",
+            "image_path": "/sample_path/sample_image_2.jpg"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "creative, alert, conscious, educated"
+          }
+        ]
+      }
+    ]
+  }
+]
