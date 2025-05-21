@@ -115,7 +115,7 @@ python scripts/train.py --help
 
 ## 🖥️ Inference
 
-A 15‑line runnable demo lives in [`examples/inference.py`](examples/inference.py):
+A runnable demo lives in [`examples/inference.py`](examples/inference.py):
 
 ```bash
 python examples/inference.py \
