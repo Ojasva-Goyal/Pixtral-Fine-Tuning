@@ -1,5 +1,5 @@
 """
-inference.py - Run inference on fine-tuned Pixtral-12B model
+inference_with_adapters.py - Run inference on fine-tuned Pixtral-12B model
 
 Loads the Pixtral-12B base model and applies LoRA adapters from the given path.
 Then runs inference on a few samples from a provided dataset.
